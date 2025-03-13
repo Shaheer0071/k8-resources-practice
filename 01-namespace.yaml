@@ -1,5 +1,5 @@
 kind: namespace
-apiVersion: v1
+apiVersion: V1
 metadata:
   name: expense
   
